@@ -11,15 +11,15 @@
 // Use the template string you created and assigned to the variable
 // my_template_string to log the formatted output to the console.
 
-// let my_name = "Kevin";
-// let my_id = "2112";
-// let my_address = "Memphis, Tn";
+let my_name = "Kevin";
+let my_id = "2112";
+let my_address = "Memphis, Tn";
 
-// let my_template_string = `My name is ${my_name}.
-// My ID is ${my_id}.
-// My address is ${my_address}.`;
+let my_template_string = `My name is ${my_name}.
+My ID is ${my_id}.
+My address is ${my_address}.`;
 
-// console.log(my_template_string);
+console.log(my_template_string);
 
 
 // Exercise 2:
@@ -31,11 +31,11 @@
 // Congratulations 1_M_l337! !!, your score is 9001.
 
 
-// var contestant = "1_M_l337!";
-// var score = "9001";
-// let templateString = `Congratulation ${contestant}!!, your score is ${score}.`;
+var contestant = "1_M_l337!";
+var score = "9001";
+let templateString = `Congratulation ${contestant}!!, your score is ${score}.`;
 
-// console.log(templateString);
+console.log(templateString);
 
 // Exercise 3:
 // Using the provided Object literal, create a template string and iterate through the Parents and Children and print them in a format simililar to the following:
